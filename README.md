@@ -1,2 +1,2 @@
-# -codsoft_-.1-
+# NUMBER GUESSING GAME in C++
 In this i have made an NUMBER GUESSING GAME 
